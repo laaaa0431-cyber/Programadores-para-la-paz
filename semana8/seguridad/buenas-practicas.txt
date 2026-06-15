@@ -1,0 +1,6 @@
+1. Usar contraseñas fuertes y únicas para cada cuenta o servicio.
+2. Activar la autenticación de dos factores en todas las plataformas.
+3. Mantener el software y los sistemas operativos actualizados.
+4. No compartir credenciales de acceso con terceros.
+5. Hacer copias de seguridad periódicas de la información importante.
+6. Usar conexiones seguras HTTPS para proteger los datos en tránsito.

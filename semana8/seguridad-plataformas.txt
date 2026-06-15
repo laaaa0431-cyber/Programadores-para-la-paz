@@ -1,0 +1,2 @@
+Para que una plataforma comunitaria sea segura es fundamental aplicar buenas prácticas desde el desarrollo. Esto incluye proteger los datos de los usuarios, usar protocolos seguros de comunicación y limitar el acceso solo a personas autorizadas. La seguridad no es opcional sino una responsabilidad con la comunidad que usa la plataforma.
+

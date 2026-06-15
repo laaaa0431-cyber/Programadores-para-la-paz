@@ -1,0 +1,5 @@
+Sistema operativo: Windows 11
+Usuario actual: afac2
+Tipo de sistema: Sistema de 64 bits
+Comandos ejecutados: uname -a y whoami
+
