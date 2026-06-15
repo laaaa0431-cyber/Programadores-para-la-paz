@@ -1,0 +1,2 @@
+Guardar datos en memoria es una forma rápida y sencilla de almacenar información temporalmente sin necesidad de instalar una base de datos, lo cual es muy útil cuando se está desarrollando o probando una aplicación. Para una plataforma comunitaria pequeña puede funcionar bien al inicio. Sin embargo la limitación más grande es que toda la información desaparece cuando el servidor se apaga o reinicia, lo que significa que no es confiable para guardar reportes o datos importantes a largo plazo. Una solución real necesitaría una base de datos permanente.
+

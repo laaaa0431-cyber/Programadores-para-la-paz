@@ -1,0 +1,4 @@
+Pruebas realizadas a las rutas del servidor:
+Ruta 1: POST /reportes — Tipo: Infraestructura — Resultado: Reporte registrado con id 1.
+Ruta 2: GET /reportes — Resultado: Se obtiene la lista de reportes registrados.
+
