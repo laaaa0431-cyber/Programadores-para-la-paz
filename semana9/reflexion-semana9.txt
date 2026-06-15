@@ -1,0 +1,1 @@
+Tener servidores y APIs propios representa una gran ventaja para las comunidades porque les permite manejar su propia información sin depender de terceros. Muchas plataformas gratuitas tienen limitaciones o pueden cerrar en cualquier momento dejando a las comunidades sin sus datos. Con tecn

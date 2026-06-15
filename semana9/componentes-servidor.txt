@@ -1,0 +1,7 @@
+componentes-servidor.txt
+1. Express: framework que permite crear rutas y manejar peticiones HTTP fácilmente.
+2. Puerto: número que identifica el canal de comunicación del servidor (en este caso 3000).
+3. Rutas GET: definen cómo responde el servidor cuando un cliente consulta una URL.
+4. app.listen: función que inicia el servidor y lo pone a escuchar solicitudes.
+5. res.send / res.json: métodos para enviar respuestas al cliente en texto o formato JSON.
+

@@ -1,0 +1,6 @@
+Comando ejecutado: node server.js
+Resultado: Servidor ejecutándose en puerto 3000
+Rutas probadas:
+- GET / : Respuesta: Servidor activo y funcionando
+- GET /estado : Respuesta: { "estado": "Servidor funcionando", "servicio": "API comunitaria" }
+
