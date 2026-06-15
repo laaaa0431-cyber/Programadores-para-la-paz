@@ -1,0 +1,3 @@
+¿De qué forma cree que las plataformas tecnológicas pueden apoyar la participación ciudadana y el mejoramiento comunitario?
+
+Las plataformas tecnológicas son una herramienta poderosa para que las comunidades puedan organizarse y participar activamente en la solución de sus problemas. A través de aplicaciones y APIs, los ciudadanos pueden reportar incidencias, compartir información y comunicarse de forma rápida y eficiente. Esto permite que las comunidades tengan voz y que sus necesidades sean atendidas de manera más ágil, fortaleciendo la participación ciudadana y contribuyendo al mejoramiento colectivo sin importar la distancia o los recursos disponibles.

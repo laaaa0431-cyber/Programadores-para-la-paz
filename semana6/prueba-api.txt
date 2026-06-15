@@ -1,0 +1,7 @@
+Pruebas realizadas a las rutas del servidor:
+
+Ruta 1: POST /registro
+Resultado: Datos recibidos, nombre y mensaje registrados correctamente.
+
+Ruta 2: POST /incidencia
+Resultado: Incidencia registrada con tipo y descripción correctamente
